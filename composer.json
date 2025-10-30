@@ -9,9 +9,9 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "fabpot/goutte": "3.2.*",
-        "jansenfelipe/utils": "^2.0@dev"
+        "php": ">=8.1",
+        "jansenfelipe/utils": "^2.0@dev",
+        "symfony/browser-kit": "7.3.x-dev"
     },
     "autoload": {
         "psr-4": {
