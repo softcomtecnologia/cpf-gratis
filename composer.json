@@ -10,8 +10,8 @@
     ],
     "require": {
         "php": ">=8.1",
-        "jansenfelipe/utils": "^2.0@dev",
-        "symfony/browser-kit": "7.3.x-dev"
+        "jansenfelipe/utils": "^v2.0.6",
+        "symfony/browser-kit": "^v6.4.24"
     },
     "autoload": {
         "psr-4": {
